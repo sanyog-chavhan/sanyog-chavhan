@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glitch Effect with Waving Hand</title>
+    <style>
+        @keyframes glitch {
+            0% { text-shadow: 2px 2px red, -2px -2px blue; }
+            25% { text-shadow: -2px -2px red, 2px 2px blue; }
+            50% { text-shadow: 2px -2px red, -2px 2px blue; }
+            75% { text-shadow: -2px 2px red, 2px -2px blue; }
+            100% { text-shadow: 2px 2px red, -2px -2px blue; }
+        }
+
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            20% { transform: rotate(20deg); }
+            40% { transform: rotate(-10deg); }
+            60% { transform: rotate(10deg); }
+            80% { transform: rotate(-5deg); }
+            100% { transform: rotate(0deg); }
+        }
+
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            margin: 0;
+            flex-direction: column;
+            padding: 20px;
+        }
+
+        .glitch-text {
+            font-size: 48px;
+            font-weight: bold;
+            animation: glitch 0.5s infinite;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            text-align: center;
+        }
+
+        .wave-hand {
+            display: inline-block;
+            font-size: 48px;
+            animation: wave 1s infinite;
+        }
+
+        /* ✅ Responsive Design for iPads & Mobile */
+        @media (max-width: 768px) {
+            .glitch-text {
+                font-size: 32px; /* Reduce text size */
+                flex-direction: column; /* Stack text & emoji */
+                gap: 5px;
+            }
+
+            .wave-hand {
+                font-size: 32px; /* Smaller hand emoji */
+            }
+        }
+
+        @media (max-width: 480px) {
+            .glitch-text {
+                font-size: 24px; /* Even smaller text for mobile */
+            }
+
+            .wave-hand {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 class="glitch-text">
+        Hi there, I'm Sanyog Chavhan 
+        <span class="wave-hand">👋</span>
+    </h1>
+</body>
+</html>
