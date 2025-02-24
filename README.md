@@ -1,4 +1,4 @@
-# <p align="left">Hi there, I'm Sanyog Chavhan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50" height="50"/></p>
+# <p align="left">Hi there, I'm Sanyog Chavhan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="50" height="50"/></p>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F7AA&width=435&lines=Ex+Software+Developer+%40+Accenture;MSc+Data+Science+%40+UoN+(Merit);4x+Microsoft+Certified+Professional;2nd+place+%40+Vuram+Codeathon+2022;Hackerrank+Gold+Level+in+Python;Hackerrank+Silver+Level+in+SQL;Aspiring+Data+Scientist;AI+Enthusiast"/>
@@ -52,23 +52,11 @@ sanyog = {
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanyog-chavhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanyog%20Chavhan-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/sanyog-chavhan">
-    <img src="https://img.shields.io/badge/GitHub-Sanyog%20Chavhan-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://medium.com/@sanyogchavhan2016">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Sanyog_">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
-  </a>
-  <a href="mailto:sanyogchavhan2016l@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> Let’s Connect & Build Together!
 
----
+If you're passionate about **coding, AI, and data science**, we already have something in common! 😃  
+<ul>
+<li>💡 Have an <strong>exciting project idea</strong>?</li>  
+<li>🤖 Want to <strong>geek out over LLMs, NLP, or Machine Learning</strong>?</li>  
+<li>🔥 Looking to <strong>expand your network</strong> and collaborate?</li>
+</ul>
