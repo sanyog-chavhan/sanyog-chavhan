@@ -11,8 +11,8 @@
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk1a3UxZDNuZ2Q4cXJiNnd4bGRnZ2syMTh3OXpxOGl6eDZjbnh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="image" width="350" height="350"/>
 <ul>
   <li>🎓 <strong>Completed my Master’s in Data Science</strong> at the <strong>University of Nottingham</strong>, now deep diving into <strong>Machine Learning, AI, and Statistics</strong>.</li>
-  <li>💻 Former <strong>software developer</strong>, now focused on transitioning in the field of <strong>data science</strong>.</li>
-  <li>🏆 <strong>Awarded the All Star Awards 2023 @Accenture</strong> for outstanding performance and commitment.</li>
+  <li>💻 Former <strong>software developer</strong>, now focused on transitioning into the field of <strong>data science</strong>.</li>
+  <li>🏆 <strong>Recipient of the 2023 All Star Award @Accenture</strong> for outstanding performance and commitment.</li>
   <li>📊 <strong>Ranked in the Top 10</strong> amongst 1000+ participants in the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7089124013804838914/">GrowthSchool Power BI Challenge</a>.</li>
   <li>✍️ Passionate about <strong>content writing</strong>, sharing knowledge on <strong>Python, SQL, statistics, and AI</strong>.</li>
   <li>🚀 <strong>Currently seeking new opportunities</strong>—check out my <a href="https://drive.google.com/file/d/1VIXQaoOOGGaRwXyr2L6anXoHi3kWDIlQ/view?usp=sharing">Resume</a>!</li>
