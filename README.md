@@ -41,16 +41,10 @@ sanyog = {
     "current_challenge": "Expanding expertise in AI, ML, and NLP while seeking exciting opportunities!"
 }
 ```
- 
-
- 
-
-
----
 
 <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3MG43dHFtZWo4YWhtb3BvMGhqNmdsZ3NreWFtam9oZ200cW1oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30" height="30"/> Projects</h2>
 
----
+
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> Let’s Connect & Build Together!
 
@@ -60,3 +54,5 @@ If you're passionate about **coding, AI, and data science**, we already have som
 <li>🤖 Want to <strong>geek out over LLMs, NLP, or Machine Learning</strong>?</li>  
 <li>🔥 Looking to <strong>expand your network</strong> and collaborate?</li>
 </ul>
+
+Whatever it is, I'd love to chat! Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/sanyog-chavhan/)** or drop me an **[email](mailto:sanyogchavhan2016l@gmail.com)!** 📩
