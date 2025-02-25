@@ -55,7 +55,7 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
       
   - _Personal Projects_
       - Stock Analysis using GenAI [Click here to access the notebook](add-link-here)
-      - Password Checker using K-Anonymity [Click here to access the notebook](add-link-here)
+      - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
       - FoodNotFood Classification [Click here to access the notebook](add-link-here)
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> Let’s Connect & Build Together!
