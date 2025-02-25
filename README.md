@@ -8,7 +8,7 @@
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30" height="30"/> About Me</h2>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXk1a3UxZDNuZ2Q4cXJiNnd4bGRnZ2syMTh3OXpxOGl6eDZjbnh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="image" width="350" height="350"/>
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="image" width="200" height="200"/>
 <ul>
   <li>🎓 <strong>Completed my Master’s in Data Science</strong> at the <strong>University of Nottingham</strong>, now deep diving into <strong>Machine Learning, AI, and Statistics</strong>.</li>
   <li>💻 Former <strong>software developer</strong>, now focused on transitioning into the field of <strong>data science</strong>.</li>
@@ -43,7 +43,6 @@ sanyog = {
 ```
 
 <h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3MG43dHFtZWo4YWhtb3BvMGhqNmdsZ3NreWFtam9oZ200cW1oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30" height="30"/> Projects</h2>
-
 
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> Let’s Connect & Build Together!
