@@ -54,7 +54,7 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
       - Understanding Kittiwake Trends - A Multifaceted Analysis [Click here to access the notebook](add-link-here)
       
   - _Personal Projects_
-      - Stock Analysis using GenAI [Click here to access the notebook](add-link-here)
+      - Stock Analysis using GenAI [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
       - FoodNotFood Classification [Click here to access the notebook](add-link-here)
 
