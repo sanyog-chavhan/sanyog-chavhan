@@ -51,7 +51,7 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
       - Prediction of RFS and PCR for Breast Cancer Patients [Click here to access the notebook](add-link-here)
       - Sentiment Analysis of US 2020 Election Tweets [Click here to access the notebook](add-link-here)
       - DengAI Disease Spread Prediction [Click here to access the notebook](add-link-here)
-      - Understanding Kittiwake Trends - A Multifaceted Analysis [Click here to access the notebook](add-link-here)
+      - Understanding Kittiwake Trends - A Multifaceted Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
   - _Personal Projects_
       - Stock Analysis using GenAI [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
