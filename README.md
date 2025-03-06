@@ -51,7 +51,6 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
       - Understanding Kittiwake Trends - A Multifaceted Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
-      - Forensic Tool for Deepfake Detection and Profile Analysis [Click here to access the notebook](add-link-here)
       
   - _Personal Projects_
       - Stock Analysis using GenAI [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
