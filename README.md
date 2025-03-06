@@ -49,7 +49,7 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
       - Forensic Tool for Deepfake Detection and Profile Analysis [Click here to access the notebook](add-link-here)
       - Explainable AI by combining Neural Networks and Decision Trees [Click here to access the notebook](add-link-here)
       - Prediction of RFS and PCR for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
-      - Sentiment Analysis of US 2020 Election Tweets [Click here to access the notebook](add-link-here)
+      - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
       - Understanding Kittiwake Trends - A Multifaceted Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
