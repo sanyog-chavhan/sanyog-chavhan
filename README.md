@@ -54,6 +54,7 @@ From writing my first `Hello World` code to now doing AI-ML based projects, my j
   - _Personal Projects_
       - AI-powered Stock Analysis and Portfolio Optimisation Tool [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
+      - Netflix User Engagement Analysis Dashboard [Check out the Post](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
    
   - _Research_
       - Explainable AI by combining Neural Networks and Decision Trees [Check the Repo](https://github.com/sanyog-chavhan/ExplainableAI)
