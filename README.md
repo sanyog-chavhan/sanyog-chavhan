@@ -28,7 +28,7 @@ sanyog = {
     "tech_stack": {
         "languages": ["Python", "R", "SQL", "Java"],
         "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "TensorFlow", "Statistical Analysis"],
-        "ai_nlp": ["LangChain", "LLM", "Transformers", "GPT-4", "Hugging Face"],
+        "ai_nlp": ["LangChain", "LLM", "Transformers", "GPT-4", "Hugging Face", "Prompt Engineering", "Fine Tuning", "Model Deployment"],
         "data_visualisation": ["Power BI", "Microsoft Excel"],
         "cloud_devops": ["Azure", "Git"],
         "development_tools": ["Jupyter Notebook", "Google Colab", "Streamlit", "VS Code"]
@@ -46,15 +46,18 @@ sanyog = {
 
 From writing my first `Hello World` code to now doing AI-ML based projects, my journey has been a blend of curiosity, innovation, and endless debugging! Here are some of my favorite projects:
   - _Academic Projects_
-      - Explainable AI by combining Neural Networks and Decision Trees [Check the Repo](https://github.com/sanyog-chavhan/ExplainableAI)
       - Prediction of RFS and PCR for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
       - Understanding Kittiwake Trends - A Multifaceted Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
   - _Personal Projects_
-      - Stock Analysis using GenAI [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
+      - AI-powered Stock Analysis and Portfolio Optimisation Tool [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
+   
+  - _Research_
+      - Explainable AI by combining Neural Networks and Decision Trees [Check the Repo](https://github.com/sanyog-chavhan/ExplainableAI)
+      - Forensic Tool for DeepFake Detection and Profile Analysis [View Research Paper](https://www.irjet.net/archives/V8/i5/IRJET-V8I5583.pdf)
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> Let’s Connect & Build Together!
 
