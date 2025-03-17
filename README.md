@@ -10,7 +10,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="image" width="200" height="200"/>
 
 - :mortar_board: **Master’s in Data Science** at the **University of Nottingham**, now deep diving into **Machine Learning, AI, and Statistics**.
-- :computer: Former **software developer** with **2** years of experience, now focused on transitioning into the field of **data science**.
+- :computer: Former **software developer** with **2** years of experience, now focused on transitioning into **data science**.
 - :trophy: **Recipient** of the **2023 All Star Award at Accenture** for outstanding performance and commitment.
 - :bar_chart: **Ranked in the Top 10** amongst 1000+ participants at [GrowthSchool Power BI Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7089124013804838914/).
 - :2nd_place_medal: **Secured 2nd Rank** amongst 4300+ participants at [Vuram Codeathon 2022](https://www.linkedin.com/feed/update/urn:li:activity:7006592953552949248/).
