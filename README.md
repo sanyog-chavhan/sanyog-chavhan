@@ -14,6 +14,7 @@
 - :trophy: **Recipient** of the **2023 All Star Award at Accenture** for outstanding performance and commitment.
 - :bar_chart: **Ranked in the Top 10** amongst 1000+ participants at [GrowthSchool Power BI Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7089124013804838914/).
 - :2nd_place_medal: **Secured 2nd Rank** amongst 4300+ participants at [Vuram Codeathon 2022](https://www.linkedin.com/feed/update/urn:li:activity:7006592953552949248/).
+- :bar_chart: **4x Microsoft Certified** Professional
 - :technologist: **Gold Level** in Python and Problem Solving, **Silver Level** in SQL on [Hackerrank](https://www.hackerrank.com/profile/Sanyog_).
 - :writing_hand: Passionate about **content writing**, sharing knowledge on **Python, SQL, statistics, and AI**.
 - :rocket: **Currently seeking new opportunities**—check out my [Resume](https://drive.google.com/file/d/1LHg6ir0Fp32H9YdbWPYHbW9jP9V8JGe1/view?usp=sharing)!
