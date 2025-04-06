@@ -17,7 +17,7 @@
 - :bar_chart: **4x Microsoft Certified** Professional
 - :technologist: **Gold Level** in Python and Problem Solving, **Silver Level** in SQL on [Hackerrank](https://www.hackerrank.com/profile/Sanyog_).
 - :writing_hand: Passionate about **content writing**, sharing knowledge on **Python, SQL, statistics, and AI**.
-- :rocket: **Currently seeking new opportunities**—check out my [Resume](https://drive.google.com/file/d/1SF8--h15bFLjLtKhLQEBkeDMBEAmRxmJ/view?usp=sharing)!
+- :rocket: **Currently seeking new opportunities**—check out my [Resume](https://drive.google.com/file/d/1ed8AF4HJHuhH-Xk97izX-raWbW-T2efh/view?usp=sharing)!
 - :handshake: Open to **collaborations on AI-powered applications, research projects, and innovative solutions**.
   
 
