@@ -10,12 +10,12 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="image" width="200" height="200"/>
 
 - :mortar_board: **Master’s in Data Science** at the **University of Nottingham**, now deep diving into **Machine Learning, AI, and Statistics**.
-- :computer: Former **software developer** with **2** years of experience, now focused on transitioning into **data science**.
+- :computer: Former **software developer** with **2** years of experience building enterprise-grade software, now focused on transitioning into **data science**.
 - :trophy: **Recipient** of the **2023 All Star Award at Accenture** for outstanding performance and commitment.
-- :bar_chart: **Ranked in the Top 10** amongst 1000+ participants at [GrowthSchool Power BI Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7089124013804838914/).
+- :bar_chart: **Ranked in top 10** amongst 1000+ participants at the [GrowthSchool Power BI Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7089124013804838914/).
 - :2nd_place_medal: **Secured 2nd Rank** amongst 4000+ participants at [Vuram Codeathon 2022](https://www.linkedin.com/feed/update/urn:li:activity:7006592953552949248/).
 - :bar_chart: **4x Microsoft Certified** Professional
-- :technologist: **Gold Level** in Python and Problem Solving, **Silver Level** in SQL on [Hackerrank](https://www.hackerrank.com/profile/Sanyog_).
+- :technologist: **Gold Level** in Python and Problem Solving, and **Silver Level** in SQL on [Hackerrank](https://www.hackerrank.com/profile/Sanyog_).
 - :writing_hand: Passionate about **content writing**, sharing knowledge on **Python, SQL, statistics, and AI**.
 - :rocket: **Currently seeking new opportunities**—check out my [Resume](https://drive.google.com/file/d/1ed8AF4HJHuhH-Xk97izX-raWbW-T2efh/view?usp=sharing)!
 - :handshake: Open to **collaborations on AI-powered applications, research projects, and innovative solutions**.
@@ -35,9 +35,9 @@ sanyog = {
         "development_tools": ["Jupyter Notebook", "Google Colab", "Streamlit", "VS Code"]
     },
     "certifications": {
-        "microsoft": ["Azure Fundamentals (AZ-900)", "Azure Data Fundamentals (DP-900)", 
+        "Microsoft": ["Azure Fundamentals (AZ-900)", "Azure Data Fundamentals (DP-900)", 
                       "Power Platform Fundamentals (PL-900)", "Security & Compliance (SC-900)"],
-        "hackerrank": ["Problem Solving - 5 Stars", "Python - 5 Stars", "SQL - 4 Stars"]
+        "Hackerrank": ["Problem Solving - 5 Stars", "Python - 5 Stars", "SQL - 4 Stars"]
     },
     "current_challenge": "Expanding expertise in AI, ML, and NLP while seeking exciting opportunities!"
 }
@@ -45,7 +45,7 @@ sanyog = {
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3MG43dHFtZWo4YWhtb3BvMGhqNmdsZ3NreWFtam9oZ200cW1oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30" height="30"/> Projects
 
-From writing my first `Hello World` code to now doing AI-ML based projects, my journey has been a blend of curiosity, innovation, and endless debugging! Here are some of my favorite projects:
+From writing my first `Hello World` code to now doing AI/ML based projects, my journey has been a blend of curiosity, innovation, and endless debugging! Here are some of my favorite projects:
   - _Academic Projects_
       - Prediction of RFS and PCR for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
