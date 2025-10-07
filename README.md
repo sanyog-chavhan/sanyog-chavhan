@@ -54,6 +54,7 @@ From writing my first `Hello World` code to now doing AI/ML based projects, my j
       
   - _Personal Projects_
       - DistilBERT News Classification System [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
+      - Credit Card Fraud Detection System [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
       - AI-powered Stock Analysis and Portfolio Optimisation Tool [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - MedInsight AI Assistant [Check the Repo](https://github.com/sanyog-chavhan/MedInsight-AI-Assistant)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
