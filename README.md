@@ -28,15 +28,15 @@ sanyog = {
     "pronouns": ["he", "him"],
     "tech_stack": {
         "languages": ["Python", "R", "SQL", "Java"],
-        "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "TensorFlow", "Statistical Analysis"],
-        "ai_nlp": ["LangChain", "LangGraph", "RAG", "Vector DB", "Pinecone", "LLM", "Transformers", "GPT-4", "Hugging Face", "Prompt Engineering", "Fine Tuning", "Model Deployment"],
+        "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "PyTorch", "Statistical Analysis"],
+        "ai_nlp": ["LangChain", "LangGraph", "RAG", "LLMs", "Transformers", "GPT-4", "Hugging Face", "Prompt Engineering", "Fine Tuning", "Model Deployment"],
         "data_visualisation": ["Power BI", "Microsoft Excel"],
         "cloud_devops": ["AWS", "Azure", "Git"],
         "development_tools": ["Jupyter Notebook", "Google Colab", "Streamlit", "VS Code"]
     },
     "certifications": {
         "Microsoft": ["Azure Fundamentals (AZ-900)", "Azure Data Fundamentals (DP-900)", 
-                      "Power Platform Fundamentals (PL-900)", "Security & Compliance (SC-900)"],
+                      "Power Platform Fundamentals (PL-900)", "Identity, Security & Compliance (SC-900)"],
         "Hackerrank": ["Problem Solving - 5 Stars", "Python - 5 Stars", "SQL - 4 Stars"]
     },
     "current_challenge": "Expanding expertise in AI, ML, and NLP while seeking exciting opportunities!"
@@ -50,15 +50,15 @@ From writing my first `Hello World` code to now doing AI/ML based projects, my j
       - Prediction of RFS and PCR for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
-      - Understanding Kittiwake Trends - A Multifaceted Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
+      - Understanding Kittiwake Trends - A Multifaceted Statistical Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
   - _Personal Projects_
-      - DistilBERT News Classification System [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
+      - News Classification System using fine-tuned DistilBERT [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
       - Credit Card Fraud Detection System [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
       - AI-powered Stock Analysis and Portfolio Optimisation Tool [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
-      - MedInsight AI Assistant [Check the Repo](https://github.com/sanyog-chavhan/MedInsight-AI-Assistant)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
-      - Netflix User Engagement Analysis Dashboard [Check out the Post](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
+      - Netflix User Engagement Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
+      - IMDb Movies Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7094327213088530433/)
    
   - _Research_
       - Forensic Tool for DeepFake Detection and Profile Analysis [View Research Paper](https://www.irjet.net/archives/V8/i5/IRJET-V8I5583.pdf)
