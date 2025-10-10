@@ -27,7 +27,7 @@
 sanyog = {
     "pronouns": ["he", "him"],
     "tech_stack": {
-        "languages": ["Python", "R", "SQL", "Java"],
+        "languages": ["Python", "R", "SQL"],
         "data_science": ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "PyTorch", "Statistical Analysis"],
         "ai_nlp": ["LangChain", "LangGraph", "RAG", "LLMs", "Transformers", "GPT-4", "Hugging Face", "Prompt Engineering", "Fine Tuning", "Model Deployment"],
         "data_visualisation": ["Power BI", "Microsoft Excel"],
@@ -47,15 +47,15 @@ sanyog = {
 
 From writing my first `Hello World` code to now doing AI/ML based projects, my journey has been a blend of curiosity, innovation, and endless debugging! Here are some of my favorite projects:
   - _Academic Projects_
-      - Prediction of RFS and PCR for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
+      - Prediction of Relapse Free Survival and Pathological Complete Response for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
       - Understanding Kittiwake Trends - A Multifaceted Statistical Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
   - _Personal Projects_
+      - AI-powered Stock Analysis and Portfolio Optimisation App [Check out the App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
+      - Credit Card Fraud Detection System [Check the Repo](https://github.com/sanyog-chavhan/Credit-Card-Fraud-Detection)
       - News Classification System using fine-tuned DistilBERT [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
-      - Credit Card Fraud Detection System [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
-      - AI-powered Stock Analysis and Portfolio Optimisation Tool [Click here to access the Web App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
       - Netflix User Engagement Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
       - IMDb Movies Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7094327213088530433/)
