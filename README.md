@@ -46,23 +46,26 @@ sanyog = {
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3MG43dHFtZWo4YWhtb3BvMGhqNmdsZ3NreWFtam9oZ200cW1oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFCIpvGxUKgTfjRKl/giphy.gif" width="30" height="30"/> <i>Projects</i>
 
 From writing my first `Hello World` code to now doing AI/ML based projects, my journey has been a blend of curiosity, innovation, and endless debugging! Here are some of my favorite projects:
-  - _Academic Projects_
+  - _Academic ML and Statistics Projects_
       - Prediction of Relapse Free Survival and Pathological Complete Response for Breast Cancer Patients [Check the Repo](https://github.com/sanyog-chavhan/Breast_Cancer_Prediction)
       - Sentiment Analysis of US 2020 Election Tweets [Check the Repo](https://github.com/sanyog-chavhan/Twitter_Sentiment_Analysis)
       - DengAI Disease Spread Prediction [Check the Repo](https://github.com/sanyog-chavhan/DengAI_Prediction)
       - Understanding Kittiwake Trends - A Multifaceted Statistical Analysis [Check the Repo](https://github.com/sanyog-chavhan/Multifaceted-Analysis-on-Kittiwakes)
       
-  - _Personal Projects_
+  - _AI/ML Projects_
       - AI-powered Stock Analysis and Portfolio Optimisation App [Check out the App](https://huggingface.co/spaces/sanyog16/AI-Based_Stock_Analysis_and_Portfolio_Optimisation)
       - Credit Card Fraud Detection System [Check the Repo](https://github.com/sanyog-chavhan/Credit-Card-Fraud-Detection)
       - News Classification System using fine-tuned DistilBERT [Check the Repo](https://github.com/sanyog-chavhan/DistilBERT-News-Classification)
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
+
+- _Data Analysis Projects_
       - Netflix User Engagement Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
       - IMDb Movies Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7094327213088530433/)
+      - British Airways Reviews Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/British-Airways-Reviews-Dashboard)
+      - Coffee Sales Analysis Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/Coffee-Sales-Analysis-Dashboard)
    
-  - _Research_
+  - _Research Published_
       - Forensic Tool for DeepFake Detection and Profile Analysis [View Research Paper](https://www.irjet.net/archives/V8/i5/IRJET-V8I5583.pdf)
-      - Explainable AI by combining Neural Networks and Decision Trees [Check the Repo](https://github.com/sanyog-chavhan/ExplainableAI)
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> <i>Let’s Connect & Build Together!</i>
 
