@@ -59,13 +59,13 @@ From writing my first `Hello World` code to now doing AI/ML based projects, my j
       - Password Checker using K-Anonymity [Check the Repo](https://github.com/sanyog-chavhan/Password-Checker)
 
 - _Data Analysis Projects_
-      - Netflix User Engagement Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
-      - IMDb Movies Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7094327213088530433/)
-      - British Airways Reviews Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/British-Airways-Reviews-Dashboard)
-      - Coffee Sales Analysis Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/Coffee-Sales-Analysis-Dashboard)
+  - Netflix User Engagement Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7088826486991781888/)
+  - IMDb Movies Analysis Dashboard [Check out the Dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7094327213088530433/)
+  - British Airways Reviews Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/British-Airways-Reviews-Dashboard)
+  - Coffee Sales Analysis Dashboard [Check out the Dashboard](https://github.com/sanyog-chavhan/Coffee-Sales-Analysis-Dashboard)
    
-  - _Research Published_
-      - Forensic Tool for DeepFake Detection and Profile Analysis [View Research Paper](https://www.irjet.net/archives/V8/i5/IRJET-V8I5583.pdf)
+- _Research Published_
+  - Forensic Tool for DeepFake Detection and Profile Analysis [View Research Paper](https://www.irjet.net/archives/V8/i5/IRJET-V8I5583.pdf)
 
 ## <img src="https://media.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=ecf05e47ahqg8bmswrqca3ky3p3makxtj1d3nifs89aem8jv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="30"/> <i>Let’s Connect & Build Together!</i>
 
