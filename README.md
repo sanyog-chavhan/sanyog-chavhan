@@ -18,6 +18,7 @@
 - **Gold Level** in Python and Problem Solving, and **Silver Level** in SQL on [Hackerrank](https://www.hackerrank.com/profile/Sanyog_).
 - Passionate about **content writing**, sharing knowledge on **Python, SQL, Statistics, and AI**.
 - **Currently seeking new opportunities!** - Check out my [Resume](https://drive.google.com/file/d/1ed8AF4HJHuhH-Xk97izX-raWbW-T2efh/view?usp=sharing)!
+- Write about AI/ML on Medium - Check out my [Articles](https://medium.com/@sanyogchavhan2016)
 - Open to **collaborations on AI-powered applications, research projects, and innovative products**.
   
 
